@@ -1,6 +1,6 @@
 # VisionWaste AI-Sorter
 EECS1021
-AUTHORS: George Kassir and Mazen Elsabban
+# AUTHORS: George Kassir and Mazen Elsabban
 
 ## Features
 - AI Powered Answering: Uses the LLava model via Ollama to identify waste items through a webcam.
