@@ -35,7 +35,7 @@ Pin Mapping
 - Servo Trash - GPIO 9 - PWM Signal
 - Servo Compost - GPIO 14 - PWM Signal
 - LED Recycling - GPIO 5 - Digital Out
-- LED Trash - GPIO 10 - Digital Out -
+- LED Trash - GPIO 10 - Digital Out
 - LED Compost - GPIO 15 - Digital Out 
 
 ## Build and Run Instructions
