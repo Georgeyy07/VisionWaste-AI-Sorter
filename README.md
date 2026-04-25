@@ -1,5 +1,5 @@
 # VisionWaste AI-Sorter
-EECS1021
+# EECS1021
 # AUTHORS: George Kassir and Mazen Elsabban
 
 ## Features
